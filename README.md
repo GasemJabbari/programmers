@@ -1,6 +1,6 @@
 # programmers
 To Run The Project:
 
-Clon This Repo
-Run npm install
-Run npm start
+1. Clon This Repo
+2. Run npm install
+3. Run npm start
