@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/programmers/static/css/main.a141f4cc.css",
+    "main.js": "/programmers/static/js/main.e2700156.js",
+    "static/js/787.f9932bd7.chunk.js": "/programmers/static/js/787.f9932bd7.chunk.js",
+    "static/media/digikala_fa.woff": "/programmers/static/media/digikala_fa.15d442d24efb0fd8e6a7.woff",
+    "static/media/digikala_fa.woff2": "/programmers/static/media/digikala_fa.7a34e2015961a8323f2f.woff2",
+    "index.html": "/programmers/index.html",
+    "main.a141f4cc.css.map": "/programmers/static/css/main.a141f4cc.css.map",
+    "main.e2700156.js.map": "/programmers/static/js/main.e2700156.js.map",
+    "787.f9932bd7.chunk.js.map": "/programmers/static/js/787.f9932bd7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a141f4cc.css",
+    "static/js/main.e2700156.js"
+  ]
+}
