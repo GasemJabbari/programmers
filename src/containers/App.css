@@ -1,0 +1,27 @@
+/* @font-face {
+    font-family: 'SEGA LOGO FONT';
+    font-style: normal;
+    font-weight: normal;
+    src: local('SEGA LOGO FONT'), url('SEGA.woff') format('woff');
+    } */
+
+    /* h1 {
+        font-family: 'SEGA LOGO FONT';
+        font-weight: 200;
+        color: #0ccac4;
+    } */
+
+    @font-face {
+        font-family: 'digikala_faregular';
+        src: url('digikala_fa.woff2') format('woff2'),
+             url('digikala_fa.woff') format('woff');
+        font-weight: normal;
+        font-style: normal;
+    
+    }
+
+    h1 {
+        font-family: 'digikala_faregular';
+        font-weight: 200;
+        color: #0ccac4;
+    }
