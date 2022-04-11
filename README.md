@@ -1,6 +1,6 @@
 # programmers
-Small Project : To Run The Project:
+To Run The Project:
 
-1.Clon This Repo
-2.Run npm install
-3.Run npm start
+Clon This Repo
+Run npm install
+Run npm start
